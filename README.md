@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Adel-Harrat/FM-Base-Apparel-coming-soon-page)
-- Live Site URL: [Add live site URL here](https://fm-base-apparel-coming-soon-page-eta.vercel.app/)
+- Live Site URL: [Vercel Demo](https://fm-base-apparel-coming-soon-page-eta.vercel.app/)
 
 ## My process
 
